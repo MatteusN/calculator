@@ -1,7 +1,7 @@
 {
 "name": "PolygonCalculator",
 "short_name": "TPolygon Calculator",
-"start_url": "https://studious-space-dollop-976jpp9px75q3xqgw-5500.app.github.dev/",
+"start_url": "https://matteusn.github.io/calculator/",
 "display": "standalone",
 "description": "Calculate polygon surface are by defining its points",
 "lang": " EN",
